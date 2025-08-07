@@ -48,7 +48,6 @@ class cmp{
         else
             return l.val < r.val;
     }
-
 };
 
 int main()
